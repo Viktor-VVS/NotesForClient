@@ -1,0 +1,31 @@
+﻿<Window x:Class="NoteForClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NoteForClient"
+        mc:Ignorable="d"
+       Title="Client Bookmarks" Height="487.98" Width="639.154" KeyDown="Ctrl_S_IsKeyDown" >
+    <Window.Resources>
+        <ContextMenu x:Key="TrayMenu">
+            <MenuItem Header="Спрятать" Click="ShowHideMainWindow" />
+            <MenuItem Header="Выход" Click="MenuExitClick" />
+        </ContextMenu>
+    </Window.Resources>
+    <Grid>
+        <TextBox x:Name="ClientContent" HorizontalAlignment="Left" Height="362" Margin="10,85,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="443" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" />
+        <Label x:Name="LastModifyInfo" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="33" Width="376"/>
+        <ListBox x:Name="ClientsList" HorizontalAlignment="Left" Height="279" Margin="458,113,0,0" VerticalAlignment="Top" Width="173"  MouseDoubleClick="ClientsList_MouseDoubleClick" />
+        <TextBox x:Name="SearchByClientsName" HorizontalAlignment="Left" Height="27" Margin="458,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163" TextChanged="SearchByClientsName_TextChanged" />
+        <TextBox x:Name="CurrentClient" HorizontalAlignment="Left" Height="23" Margin="10,48,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label1" Content="Search By Client" HorizontalAlignment="Left" Margin="495,15,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Client" HorizontalAlignment="Left" Margin="135,46,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Save" Content="Save" HorizontalAlignment="Left" Margin="254,45,0,0" VerticalAlignment="Top" Width="61" Height="35" Click="Save_Click"/>
+        <Button x:Name="Load" Content="Load" HorizontalAlignment="Left" Margin="320,45,0,0" VerticalAlignment="Top" Width="61" Height="34" Click="Load_Click"/>
+        <Button x:Name="Remove" Content="Remove" HorizontalAlignment="Left" Margin="386,45,0,0" VerticalAlignment="Top" Width="62" Height="35" Click="Remove_Click"/>
+        <TextBox x:Name="SearchByContent" HorizontalAlignment="Left" Height="29" Margin="458,418,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163"/>
+        <Button x:Name="SearchbyContent" Content="Search in Content" HorizontalAlignment="Left" Margin="473,397,0,0" VerticalAlignment="Top" Width="138" Click="SearchbyContent_Click"/>
+        <Button x:Name="RefreshClientsList" Content="Refresh Client List" HorizontalAlignment="Left" Margin="485,73,0,0" VerticalAlignment="Top" Width="120" Height="35" Click="RefreshClientsList_Click" RenderTransformOrigin="2.097,-0.371"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\bin\Release\NoteForClient.exe.config
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\bin\Release\NoteForClient.exe
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\bin\Release\NoteForClient.pdb
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\MainWindow.g.cs
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\App.g.cs
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\NoteForClient_MarkupCompile.cache
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\NoteForClient_MarkupCompile.lref
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\MainWindow.baml
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\NoteForClient.g.resources
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\NoteForClient.Properties.Resources.resources
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\NoteForClient.csproj.GenerateResource.Cache
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\NoteForClient.exe
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Release\NoteForClient.pdb
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Release\NoteForClient.exe.config
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Release\NoteForClient.exe
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Release\NoteForClient.pdb
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\MainWindow.g.cs
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\App.g.cs
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient_MarkupCompile.cache
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient_MarkupCompile.lref
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\MainWindow.baml
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient.g.resources
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient.Properties.Resources.resources
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient.csproj.GenerateResource.Cache
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient.csproj.CoreCompileInputs.cache
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient.exe
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Release\NoteForClient.pdb

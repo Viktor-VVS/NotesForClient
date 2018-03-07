@@ -1,0 +1,56 @@
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\MainWindow.g.cs
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\App.g.cs
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.cache
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.lref
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\bin\Debug\NoteForClient.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\MainWindow.baml
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\NoteForClient.g.resources
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\NoteForClient.Properties.Resources.resources
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csproj.GenerateResource.Cache
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\NoteForClient.exe
+c:\users\viktor\documents\visual studio 2015\Projects\NoteForClient\NoteForClient\obj\Debug\NoteForClient.pdb
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe.config
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\NoteForClient.exe
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\NoteForClient.pdb
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\MainWindow.g.cs
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\App.g.cs
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.cache
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.lref
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\bin\Debug\NoteForClient.pdb
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\MainWindow.baml
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\NoteForClient.g.resources
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\NoteForClient.Properties.Resources.resources
+C:\Users\VIKTOR\Desktop\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csproj.GenerateResource.Cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe.config
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Debug\NoteForClient.pdb
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csprojResolveAssemblyReference.cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\MainWindow.g.cs
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\App.g.cs
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.lref
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\MainWindow.baml
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.g.resources
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.Properties.Resources.resources
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csproj.GenerateResource.Cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csproj.CoreCompileInputs.cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.exe
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.pdb
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe.config
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Debug\NoteForClient.exe
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\bin\Debug\NoteForClient.pdb
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csprojResolveAssemblyReference.cache
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\MainWindow.g.cs
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\App.g.cs
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.cache
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient_MarkupCompile.lref
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\MainWindow.baml
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.g.resources
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.Properties.Resources.resources
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csproj.GenerateResource.Cache
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.csproj.CoreCompileInputs.cache
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.exe
+C:\Users\IRA\Desktop\Программист\Избранные проекты\С#\39 Заметки по клиентам NoteForClients\NoteForClient\NoteForClient\obj\Debug\NoteForClient.pdb
